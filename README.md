@@ -1,12 +1,13 @@
-<h1 align='center'>Hi 👋, I'm Juan Sebastian</h1>
-<h3 align="center">A web developer in progress</h3>
+<h1>Hi 👋, I'm Juan Sebastian</h1>
+<h3>A web developer</h3>
 
-![](https://komarev.com/ghpvc/?username=sicasta)
+<br>
+
+🔭 I’m currently working on a page for a school<br>🌱 I’m currently learning React and Node<br>⚡ Fun fact i'm 17 years old
+
+<br>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/sicasta)
-
-🔭 I’m currently working on a page for a school<br>👯 I’m looking to work with globant<br>🌱 I’m currently learning React and Node<br>⚡ Fun fact i'm 17 years old
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sicasta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/castanedaburbanoj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19446606) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maybeCasta) 
